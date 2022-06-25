@@ -1,6 +1,6 @@
 package figures;
 
-import by.ilya_budevich.model.ifc.SymmetricShape;
+import abstractRepresentation.SymmetricShape;
 
 import java.awt.geom.Rectangle2D;
 

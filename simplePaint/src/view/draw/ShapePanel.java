@@ -1,7 +1,8 @@
 package view.draw;
 
-import by.ilya_budevich.utils.SizeConstants;
-import by.ilya_budevich.utils.TextFieldHint;
+
+import utils.SizeConstants;
+import utils.TextFieldHint;
 
 import javax.swing.*;
 import java.awt.*;

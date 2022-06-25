@@ -1,6 +1,6 @@
 package figures;
 
-import by.ilya_budevich.model.ifc.TwoPointShape;
+import abstractRepresentation.TwoPointShape;
 
 import java.awt.geom.Line2D;
 import java.awt.geom.Point2D;
