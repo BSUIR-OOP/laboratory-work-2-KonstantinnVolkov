@@ -1,6 +1,6 @@
 package figures;
 
-import by.ilya_budevich.model.ifc.RegularShape;
+import abstractRepresentation.RegularShape;
 
 import java.awt.geom.Rectangle2D;
 

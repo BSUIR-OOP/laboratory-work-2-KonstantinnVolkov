@@ -1,9 +1,9 @@
 package view.draw;
 
-import by.ilya_budevich.model.factory.ShapeFactory;
-import by.ilya_budevich.presenter.MainPresenter;
-import by.ilya_budevich.utils.SizeConstants;
-import by.ilya_budevich.view.builder.InputPanelBuilder;
+import factory.ShapeFactory;
+import presenter.MainPresenter;
+import utils.SizeConstants;
+import view.builder.InputPanelBuilder;
 
 import javax.swing.*;
 import java.awt.*;
